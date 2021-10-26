@@ -1,0 +1,9 @@
+Hola a todos
+Este archivo lo cree en el repositorio remoto
+
+a = 4
+b = 5
+
+x = 2*a - 7.3*b
+
+print("The value of x is", x)
